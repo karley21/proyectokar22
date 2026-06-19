@@ -4,3 +4,4 @@ PyMuPDF
 joblib
 pytesseract 
 pillow
+streamlit
