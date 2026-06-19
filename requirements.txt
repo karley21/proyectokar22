@@ -2,3 +2,5 @@ scikit-learn
 pandas
 PyMuPDF
 joblib
+pytesseract 
+pillow
